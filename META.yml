@@ -1,10 +1,10 @@
 --- #YAML:1.0
 name:               Text-FixedWidth-Helper
-version:            0.01
+version:            0.02
 abstract:           Create or verify samples of fixed-width data
 author:
     - James E Keenan (jkeenan@cpan.org)
-license:            unknown
+license:            perl
 distribution_type:  module
 configure_requires:
     ExtUtils::MakeMaker:  0
